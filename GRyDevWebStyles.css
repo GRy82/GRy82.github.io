@@ -1,14 +1,14 @@
 body{
-    background-color: white;
+    background-image: linear-gradient(to bottom, white, rgb(190, 233, 249), rgb(71, 107, 160), rgb(42, 87, 135), black);
 }
 
 h1{
     text-align: center;
-    margin-bottom: 30px; 
-    margin-top: 30px;
-    color: goldenrod; 
-    font-style: italic;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    color:black; 
+    font-style: bold;
+    text-shadow: 2px 2px 5px rgb(187, 15, 81);
 }
 
 h4{
@@ -60,7 +60,7 @@ li a:hover{
 }
 
 .active-nav{
-    background-color: purple;
+    background-color: rgb(135, 18, 108);
 }
 
 
