@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to bottom, white, rgb(190, 233, 249), rgb(71, 107, 160), rgb(42, 87, 135), black);
+    background-image: linear-gradient(to bottom, white, rgb(190, 249, 240), rgb(71, 154, 160), rgb(42, 121, 135), black);
 }
 
 h1{
@@ -37,11 +37,8 @@ ul{
     background-color: black;
 }
 
-li{
-    float: left;
-}
-
 li a{
+    float: left;
     display: block;
     color: white;
     text-align: center;
@@ -50,17 +47,26 @@ li a{
     border-right: solid;
     border-width: 3px;
     border-color: rgb(50, 50, 50);
-
 }
 
 li a:hover{
     text-decoration: none;
     color: black;
-    background-color: rgb(208, 181, 181)
+    background-color:rgb(255, 210, 244)
 }
 
 .active-nav{
     background-color: rgb(135, 18, 108);
+}
+
+#nav-bar-logo{
+    width: 18%;
+    height: auto;
+    float: left;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 
