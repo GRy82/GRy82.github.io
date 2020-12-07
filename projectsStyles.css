@@ -11,7 +11,7 @@ h1, h4, h5{
 }
 
 .poolball-title{
-    margin-left: 7%;
+    margin-left: 10px;
 }
 
 #poolball-icon{
@@ -32,7 +32,7 @@ h1, h4, h5{
 }
 
 .middle{
-    width: 50%;
+    width: 33%;
 }
   
 .little-left {
@@ -44,7 +44,15 @@ h1, h4, h5{
 }
 
 #pb-gif{
-    max-width: 200px;
     min-width: 200px;
+    max-width: 300px;
     height: auto;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+p{
+    width: 300px;
+    color: white;
+    margin-bottom: 200px;
 }
