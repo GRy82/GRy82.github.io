@@ -16,6 +16,15 @@ h4{
     font-style: oblique;
     margin-left: 10px;
 }
+/* same as above but applied in more unique situations to more than just h4*/
+.header-variation-one{
+    color: rgb(203, 205, 196);
+    font-style: oblique;
+    text-shadow: 2px 2px 5px rgb(187, 15, 81);
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
 
 p{
     border-bottom: solid;
@@ -82,3 +91,12 @@ li a:hover{
     background-color: black;
 }
 
+.about-me-header{
+    text-shadow: 2px 2px 5px rgb(187, 15, 81);
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+ .space-between{
+     margin-top: 33px;
+ }
