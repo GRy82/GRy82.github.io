@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 65px;
+}
+
+h1, h4, h5{
+    color:white;
+    font-style: bold;
+    text-shadow: 2px 2px 5px rgb(187, 15, 81);
+}
+
+.poolball-title{
+    margin-left: 7%;
+}
+
+#poolball-icon{
+    max-width: 100px;
+    min-width: 100px;
+    height: auto;
+    float: right;
+ }
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+}
+  
+.little-left {
+    width: 33%;
+}
+  
+.big-right {
+    width: 67%;
+}
