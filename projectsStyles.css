@@ -30,6 +30,10 @@ h1, h4, h5{
 .column {
     float: left;
 }
+
+.middle{
+    width: 50%;
+}
   
 .little-left {
     width: 33%;
@@ -37,4 +41,10 @@ h1, h4, h5{
   
 .big-right {
     width: 67%;
+}
+
+#pb-gif{
+    max-width: 200px;
+    min-width: 200px;
+    height: auto;
 }
