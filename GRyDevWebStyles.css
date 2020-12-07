@@ -1,5 +1,9 @@
-body{
+.index-body{
     background-image: linear-gradient(to bottom, white, rgb(190, 249, 240), rgb(71, 154, 160), rgb(42, 121, 135), black);
+}
+
+.aboutMe-body{
+    background-image: linear-gradient(to bottom, rgb(59, 193, 173), rgb(71, 154, 160), rgb(42, 121, 135), black);
 }
 
 h1{
