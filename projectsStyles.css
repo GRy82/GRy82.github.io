@@ -56,9 +56,20 @@ p{
     color: white;
 }
 
-button{
+.project-button{
     background-color: rgb(89, 89, 172);
-    color: whitesmoke;
+    color: rgb(198, 210, 211);
+    text-decoration: none;
     margin-left: 50%;
     margin-right: 50%;
+    border: outset;
+    border-color: gray;
+    padding: 5px;
+    transition-duration: .4s;
+}
+
+.project-button:hover{
+    text-decoration: none;
+    color:white;
+    text-shadow: 2px 2px 5px rgb(242, 242, 160);
 }
