@@ -54,5 +54,11 @@ h1, h4, h5{
 p{
     width: 300px;
     color: white;
-    margin-bottom: 200px;
+}
+
+button{
+    background-color: rgb(89, 89, 172);
+    color: whitesmoke;
+    margin-left: 50%;
+    margin-right: 50%;
 }
