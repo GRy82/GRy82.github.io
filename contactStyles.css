@@ -1,5 +1,12 @@
 .contact{
-    text-align: center; 
+    text-align: left; 
     color: white; 
+    
+}
+
+.title{
+    text-align: center;
+    color:white;
+    font-style: bold;
     text-shadow: 2px 2px 5px rgb(187, 15, 81);
 }
