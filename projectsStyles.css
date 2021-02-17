@@ -3,11 +3,15 @@ h1{
     margin-bottom: 65px;
 }
 
-h1, h4{
+h1, h3{
     text-align: center;
     color:white;
     font-style: bold;
     text-shadow: 2px 2px 5px rgb(187, 15, 81);
+}
+
+h3{
+    margin: 30px 0px 30px 0px;
 }
 
 .poolball-title{
@@ -27,25 +31,9 @@ h1, h4{
     clear: both;
 }
 
-.column {
-    float: left;
-}
-
-.middle{
-    width: 33%;
-}
-  
-.little-left {
-    width: 33%;
-}
-  
-.big-right {
-    width: 67%;
-}
 
 #pb-gif{
-    min-width: 200px;
-    max-width: 400px;
+    width: 100%;
     height: auto;
     padding-top: 15px;
     padding-bottom: 30px;
@@ -76,4 +64,9 @@ p{
 .button-div{
     text-align: center;
     margin-bottom: 100px;
+}
+
+.autonofit-imgs{
+    width: 96%;
+    height: auto;
 }
