@@ -10,9 +10,8 @@ h1, h4{
     text-shadow: 2px 2px 5px rgb(187, 15, 81);
 }
 
-
 .poolball-title{
-    margin-left: 10px;
+    float: left;
 }
 
 #poolball-icon{
@@ -62,8 +61,6 @@ p{
     background-color: rgb(89, 89, 172);
     color: rgb(198, 210, 211);
     text-decoration: none;
-    margin-left: 50%;
-    margin-right: 50%;
     border: outset;
     border-color: gray;
     padding: 5px;
@@ -74,4 +71,9 @@ p{
     text-decoration: none;
     color:white;
     text-shadow: 2px 2px 5px rgb(242, 242, 160);
+}
+
+.button-div{
+    text-align: center;
+    margin-bottom: 100px;
 }
